@@ -1,0 +1,2 @@
+# cdn
+github-file-cdn
